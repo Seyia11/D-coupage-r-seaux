@@ -1,6 +1,6 @@
 ## 1. Découpage symétrique
 
-Besoin max 50 equipements apr service.
+Besoin max 50 equipements par service.
 
 Nombre d'adresses disponilbes : 2^6 - 2 = 64
 
